@@ -19,15 +19,17 @@ section.border button {
 section.border button:hover,
 section.border button.hover {
     border-color: #fcac45;
-    color: white;
+    color: white !important;
     background-color: #fcac45;
 }
 
-section.border button:active,
-section.border button.active {
-    border-color: #27496d;
-    color: #27496d;
-}
+
+
+/*section.border button:active,*/
+/*section.border button.active {*/
+    /*border-color: #27496d;*/
+    /*color: #27496d;*/
+/*}*/
 
 h1 {
     text-transform: uppercase;
