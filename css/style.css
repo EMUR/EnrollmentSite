@@ -1,4 +1,4 @@
-    @import url(http://fonts.googleapis.com/css?family=Lato:100,300,400,700,900,100italic,300italic,400italic,700italic,900italic);
+@import url(http://fonts.googleapis.com/css?family=Lato:100,300,400,700,900,100italic,300italic,400italic,700italic,900italic);
 @import url(http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,700,300,600,800,400);
 body,
 html {
@@ -24,25 +24,25 @@ section.border button.hover {
 }
 
 
-    section.border .bigbtn {
-        background-color: #fcac45;
-        color: white;
-        font-weight: bold;
-        width: 50%;
-        transition: all 0.5s;
-        height: 50px;
-        margin-bottom: 40px;
-        margin-right: auto;
-        margin-left: auto;
-        display: block;
-        margin-top: 40px;
-    }
+section.border .bigbtn {
+    background-color: #fcac45;
+    color: white;
+    font-weight: bold;
+    width: 50%;
+    transition: all 0.5s;
+    height: 50px;
+    margin-bottom: 40px;
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+    margin-top: 40px;
+}
 
 
 /*section.border button:active,*/
 /*section.border button.active {*/
-    /*border-color: #27496d;*/
-    /*color: #27496d;*/
+/*border-color: #27496d;*/
+/*color: #27496d;*/
 /*}*/
 
 h1 {
@@ -751,3 +751,4 @@ nav#footer p {
     background: #FCAC45;
     border-color: #FCAC45;
     color: #ffffff;
+}
